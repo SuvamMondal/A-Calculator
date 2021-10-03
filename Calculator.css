@@ -1,0 +1,27 @@
+.calci{
+    border:solid black;
+    background-color: rgb(188, 194, 188);
+    padding:50px;
+    justify-content:space-around;
+    align-items:center;
+    width:150px;
+    height:200px;
+    margin-top: 150px;
+    margin-left:530px;
+    padding-left: 10px;
+    padding-right:40px;
+    padding-top:10px;
+    padding-bottom:55px;
+    text-align: center;
+}
+.btn-design{
+    border: solid rgb(155, 151, 151);
+}
+#display{
+    border-radius: 50px;
+}
+.btn-design{
+    
+    background-color: rgb(255, 255, 255);
+
+}
